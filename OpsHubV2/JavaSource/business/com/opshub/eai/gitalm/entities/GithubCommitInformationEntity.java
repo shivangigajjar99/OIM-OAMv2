@@ -1,6 +1,3 @@
-/**
- * Copyright C 2019 OpsHub, Inc. All rights reserved
- */
 package com.opshub.eai.gitalm.entities;
 
 import java.io.InputStream;
