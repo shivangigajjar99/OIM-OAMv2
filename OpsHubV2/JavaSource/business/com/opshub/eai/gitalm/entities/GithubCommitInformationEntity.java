@@ -23,6 +23,7 @@ import org.apache.log4j.Logger;
 import org.apache.log4j.Logger;
 import org.apache.log4j.Logger;
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 import org.apache.log4j.Logger;
 import org.apache.log4j.Logger;
@@ -32,6 +33,8 @@ import org.apache.log4j.Logger;
 import org.apache.log4j.Logger;
 =======
 >>>>>>> cb38c05935c56b7b45c6439abcf008117b0036b9
+=======
+>>>>>>> 9bb6feb (c6)
 import com.opshub.eai.EAIComment;
 import com.opshub.eai.EAIEntityRefrences;
 import com.opshub.eai.EAIKeyValue;
@@ -48,6 +51,9 @@ import com.opshub.eai.gitalm.common.GithubConstants.GitALMFieldNames;
 import com.opshub.eai.gitalm.common.GithubRestRequester;
 import com.opshub.eai.gitalm.common.SourceFieldsMetaData;
 import com.opshub.eai.gitalm.data.Branches;
+
+import com.opshub.eai.gitalm.data.Branches;
+
 import com.opshub.eai.gitalm.data.Commit;
 import com.opshub.eai.gitalm.exceptions.GithubConnectorException;
 import com.opshub.eai.gitalm.exceptions.OIMGithubPollerException;
